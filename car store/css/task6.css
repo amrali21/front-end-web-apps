@@ -1,0 +1,249 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+
+
+main{
+    width:1920px;
+    /* text-align: center; */
+    margin: auto;
+}  
+
+ /* CSS FOR NAVBAR */
+nav  ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+/* background-color: #333; */
+}
+
+nav li {
+float: right;
+}
+
+nav li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+nav li a:hover {
+transition: 0.3s;
+background-color: rgb(249,183,0);
+color: white;
+}
+
+#logo{
+float:left;
+}
+ /* CSS FOR NAVBAR */
+
+ /* header (temporary) */
+ header{
+     padding-top: 10px;
+     padding-bottom:40px;
+
+     /* background-image: url("../Images/header-bg.jpg"); */
+     background: linear-gradient(RGBA(0,0,0,0.7),RGBA(0,0,0,0.7)),url('../images/header-bg.jpg') ;
+
+     margin-bottom: 40px;
+ }
+
+ #services{
+     margin-bottom: 80px
+ }
+
+ #services article{
+     background-color: rgb(237,237,247);
+     border-radius: 10px;
+     width: 23%;
+     float:left;
+     padding: 40px 20px;
+     margin-right: 20px;
+ }
+
+ 
+
+ #services article h1{
+    font-size: 23px;
+    display: inline-block;
+    margin-bottom:10px
+}
+
+
+#services article p{
+font-size: 20px;
+color: gray;
+}
+
+
+
+ #feedback{
+     width:1880px;
+     margin:auto;
+     margin-bottom: 80px;
+ }
+
+
+ #feedback #l-section{
+     float:left;
+     width: 51%;
+ }
+
+ 
+ #feedback #r-section{
+     float:right;
+     width: 46%;
+     
+ }
+
+ #car-model{
+     /* text-align: center; */
+     margin-bottom: 80px;
+     width: 1650px;
+     margin-left: auto;  
+     margin-right: auto;
+ }
+ #car-model #l-section{
+     float:left;
+     
+     width: 50%;
+ }
+
+ #car-model #r-section{
+     text-align: right;
+     float:right;
+     width: 50%;
+
+ }
+
+
+ 
+
+ #support{
+     height: 410px;
+     text-align: center;
+     color:white;
+     /* background-image: url("../Images/callaction-bg.jpg"); */
+     background: linear-gradient(RGBA(0,0,20,0.7),RGBA(0,0,20,0.7)),url('../images/callaction-bg.jpg') ;
+
+     padding-top: 100px;
+     margin-bottom: 80px;
+ }
+
+ #blog{
+     margin-bottom: 80px
+ }
+ #blog figure{
+     float:left;
+     width: 23%;
+     margin-right: 32px;
+ }
+
+ #blog figcaption div, #blog figcaption p {
+     color: gray;
+     font-size: 20px;
+ }
+
+ #blog figcaption > *{
+     margin-bottom: 10px;
+ }
+
+ .paragraphs{
+     color:gray;
+     font-size:20px
+ }
+
+ .headers{
+     font-size: 50px;
+ }
+
+ footer{
+     background-color: rgb(4,9,29);
+    padding-top:100px;
+    padding-bottom: 100px;
+    
+ }
+
+ footer section{
+     width: 1740px;
+     margin-left: auto;
+     margin-right: auto;
+ }
+
+ footer article{
+     width: 19%;
+    float: left;
+ }
+
+ footer section article > *{
+     margin-bottom: 15px
+ }
+
+
+
+ 
+#menu li{
+    display: inline;
+}
+#menu ul{
+    padding-left: 0;
+}
+
+.orangeButton{
+    color:white; 
+    font-size:20px;
+    text-transform:uppercase;
+    text-decoration: none; 
+    background-color: rgb(249,183,0); 
+    padding: 15px 30px;
+    display: inline-block; 
+}
+
+header #rentCar{
+    width: 1650px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:20px;
+    display: flex;
+    color: white;
+}
+
+header #rentCar .l-section{
+    width: 59%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+header #rentCar .l-section >*{
+ margin-bottom: 15px;
+
+}
+
+header #rentCar .r-section{
+    width: 41%;
+    border: solid 1px white;
+    background-color: rgba(9,2,109, 0.25) ;
+    padding: 60px 40px;
+
+}
+
+#rentCar select{
+    margin-bottom: 15px;
+    padding: 15px 30px;
+    width: 100%;
+}
+
+#rentCar select option{
+    color: gray;
+}
+
+
