@@ -1,7 +1,7 @@
 # Repo contains following projects:
 ## [online courses website](https://github.com/amrali21/front-end-web-apps/tree/master/online%20courses)
 
-![ScreenShot](/online courses/landing.png)
+![ScreenShot](https://github.com/amrali21/front-end-web-apps/blob/master/online%20courses/landing.png)
 
 ## [electronic gadgets](https://github.com/amrali21/front-end-web-apps/tree/master/electronic%20gadgets)
 
