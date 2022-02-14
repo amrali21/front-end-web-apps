@@ -5,13 +5,13 @@
 
 ## [electronic gadgets](https://github.com/amrali21/front-end-web-apps/tree/master/electronic%20gadgets)
 
-![ScreenShot](/electronic gadgets/landing.png)
+![ScreenShot](https://github.com/amrali21/front-end-web-apps/blob/master/electronic%20gadgets/landing.png)
 
 ## [construction services](https://github.com/amrali21/front-end-web-apps/tree/master/construction%20services)
 
-![ScreenShot](/construction services/landing.png)
+![ScreenShot](https://github.com/amrali21/front-end-web-apps/blob/master/construction%20services/landing.png)
 
 ## [car store](https://github.com/amrali21/front-end-web-apps/tree/master/car%20store)
 
-![ScreenShot](/car store/landing.png)
+![ScreenShot](https://github.com/amrali21/front-end-web-apps/blob/master/car%20store/landing.jpg)
 
